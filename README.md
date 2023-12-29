@@ -1,2 +1,2 @@
 # HiddenMessage
-Websiote Inspiration: https://github.com/jeycaarce/hidden.git
+Website Inspiration: https://github.com/jeycaarce/hidden.git
